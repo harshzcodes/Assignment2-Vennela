@@ -18,7 +18,12 @@
     1. Travel by Delhi metro services from Delhi international airport to Delhi Bus station.
     1. From Delhi bus station, there will be plenty busses available to travel to Triund.
     1. It is a total of 8 hours road journey by bus from Delhi to Triund approximately.
-
+- List of items to be brought to experience maximum enjoyment.
+    - Carry a sleeping bag along with a camping tent
+    - Carry a jacket and a sweater
+    - Few water bottles, proteine bars and energy drinks to refuel your energy on your way while terkking.
+    - Carry a torch light which is helpful incase of light fall while you trekk.
+    
 
 
 
