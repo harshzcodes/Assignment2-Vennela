@@ -26,5 +26,17 @@
     
 [Click here to know about me.](AboutMe.md)
 
+---
+# Must Try Foods/Drinks
+Drinks I would suggest as must try :
+
+| Food/Drink | Location | Price
+|--- | ----| --- |
+| Roasted Shrimp Rice | Spice Kitchen, Hyderabad | $3.21
+| Deep Dish Pizza | Rosati's Pizza, Chicago | $4.69
+| Cappuccino Frappe | Starbucks | $3.66
+
+
+
 
 
