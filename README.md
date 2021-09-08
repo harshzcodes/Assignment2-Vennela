@@ -35,6 +35,7 @@ Drinks I would suggest as must try :
 | Roasted Shrimp Rice | Spice Kitchen, Hyderabad | $3.21
 | Deep Dish Pizza | Rosati's Pizza, Chicago | $4.69
 | Cappuccino Frappe | Starbucks | $3.66
+| Cookies and Cream Ice Cream Oreo | Walmart | $2.98
 
 
 
