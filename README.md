@@ -42,6 +42,55 @@ Drinks I would suggest as must try :
 > You can become knowledgeable from others knowledge But you can not become wise from others wisdom. *-Michel de Montaigne*
 
 > Be the change that you wish to see in the world.*-Mahatma Gandhi*
+---
+# Basic Geometry
+> Geometry is a branch of mathematics that studies the sizes, shapes, positions angles and dimensions of things. Flat shapes like squares, circles, and triangles are a part of flat geometry and are called 2D shapes.
+[-Click here for source link.](https://www.splashlearn.com/math-vocabulary/geometry/geometry)
+
+Linear Operations on 2D points :
+~~~ 
+struct point2d {
+    ftype x, y;
+    point2d() {}
+    point2d(ftype x, ftype y): x(x), y(y) {}
+    point2d& operator+=(const point2d &t) {
+        x += t.x;
+        y += t.y;
+        return *this;
+    }
+    point2d& operator-=(const point2d &t) {
+        x -= t.x;
+        y -= t.y;
+        return *this;
+    }
+    point2d& operator*=(ftype t) {
+        x *= t;
+        y *= t;
+        return *this;
+    }
+    point2d& operator/=(ftype t) {
+        x /= t;
+        y /= t;
+        return *this;
+    }
+    point2d operator+(const point2d &t) const {
+        return point2d(*this) += t;
+    }
+    point2d operator-(const point2d &t) const {
+        return point2d(*this) -= t;
+    }
+    point2d operator*(ftype t) const {
+        return point2d(*this) *= t;
+    }
+    point2d operator/(ftype t) const {
+        return point2d(*this) /= t;
+    }
+};
+point2d operator*(ftype a, point2d b) {
+    return b * a;
+}
+ ~~~
+[Click here for more.](https://cp-algorithms.com/geometry/basic-geometry.html)
 
 
 
