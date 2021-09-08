@@ -24,7 +24,7 @@
     - Few water bottles, proteine bars and energy drinks to refuel your energy on your way while terkking.
     - Carry a torch light which is helpful incase of light fall while you trekk.
     
-[Click here to know about me.](AboutMe)
+[Click here to know about me.](AboutMe.md)
 
 
 
