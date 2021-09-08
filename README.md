@@ -37,6 +37,12 @@ Drinks I would suggest as must try :
 | Cappuccino Frappe | Starbucks | $3.66
 | Cookies and Cream Ice Cream Oreo | Walmart | $2.98
 
+---
+# Quotes I like
+> You can become knowledgeable from others knowledge But you can not become wise from others wisdom. *-Michel de Montaigne*
+
+> Be the change that you wish to see in the world.*-Mahatma Gandhi*
+
 
 
 
